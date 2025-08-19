@@ -1,0 +1,3 @@
+python-telegram-bot[job-queue]
+gspread
+google-auth-oauthlib
